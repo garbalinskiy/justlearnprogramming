@@ -1,0 +1,38 @@
+{
+  "website": "http://justlearnprogramming.com",
+  "title": "This is open source framework for people who are interested to start their way in leaning programming",
+  "episodes": [
+    {
+      "type": "path",
+      "title": "Learning Background",
+      "description": "This is the point when you don't know anything about programming yet, but I would like to try and you don't know from where sto start",
+      "steps": [
+        {
+          "title": "Step 0 / Basic with Python",
+          "description": "Base python course, learn basic and become familiar with terminology",
+          "url": "https://www.codecademy.com/learn/learn-python"
+        },
+        {
+          "title": "Step 1 / Fundamentals of OOP with Java",
+          "description": "Head First Java is a great book for those who already know what is code",
+          "url": "https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide/dp/1491910771?ref_=justlearnprogramming.com"
+        },
+        {
+          "title": "Step 2 / Became familiar with Design Patters",
+          "description": "Head First Design Patters contains explanation for most popular patters developer will require",
+          "url": "https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X?ref_=justlearnprogramming.com"
+        },
+        {
+          "title": "Step 3 / Head First Object-Oriented Analysis & Design",
+          "description": "Head First Object-Oriented Analysis & Design shows you how to analyze, design, and write serious object-oriented software",
+          "url": "https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678?ref_=justlearnprogramming.com"
+        },
+        {
+          "title": "Step 4 / Head First Software Development",
+          "description": "Head First Software Development guide you through the best practices of software development",
+          "url": "https://www.amazon.com/Head-First-Software-Development-Companion/dp/0596527357?ref_=justlearnprogramming.com"
+        }
+      ]
+    }
+  ]
+}
